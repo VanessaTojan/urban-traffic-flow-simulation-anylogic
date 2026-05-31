@@ -1,4 +1,5 @@
 # Urban Traffic Flow Simulation and Optimization using AnyLogic
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Overview
 
